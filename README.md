@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Привет, я haghertw 👋</h1>
 
-<!--
-**haghertw/haghertw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Учусь+программировать;Люблю+Linux+и+сети;Делаю+свои+проекты" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haghertw&color=blue&style=flat-square" alt="views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Обо мне
+
+- 🌱 Изучаю: Python, Git, Linux, сети
+
+## 🛠 Технологии
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,git,github,linux,bash,vscode,html,css,js" />
+</p>
+
+## 📊 Статистика
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haghertw&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghertw&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haghertw&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">⭐ Спасибо, что заглянули!</p>
