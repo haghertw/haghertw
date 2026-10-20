@@ -1,8 +1,5 @@
 <h1 align="center">Привет, я haghertw 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Учусь+программировать;Люблю+Linux+и+сети;Делаю+свои+проекты" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haghertw&color=blue&style=flat-square" alt="views" />
