@@ -17,7 +17,7 @@
 ## 🛠 Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,linux,bash,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,linux,pycharm" />
 </p>
 
 ## 📊 Статистика
